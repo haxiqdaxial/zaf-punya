@@ -279,6 +279,30 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
+#EXTINF:-1,IND: (TS) KTV HD
+http://dmtn.tv:8080/Walid_amara/WA23679753/373256.ts
+
+#EXTINF:-1,IND: (SUN) KTV HD
+http://dmtn.tv:8080/Walid_amara/WA23679753/373257.ts
+
+#EXTINF:-1,IND: (YP) KTV HD
+http://dmtn.tv:8080/Walid_amara/WA23679753/373258.ts
+
+#EXTINF:-1,IND: (TS) MOVIES NOW HD
+http://dmtn.tv:8080/Walid_amara/WA23679753/373296.ts
+
+#EXTINF:-1,IND: (TS) MOVIES NOW
+http://dmtn.tv:8080/Walid_amara/WA23679753/373297.ts
+
+#EXTINF:-1,IND: (SUN) SUN TV HD
+http://dmtn.tv:8080/Walid_amara/WA23679753/373085.ts
+
+#EXTINF:-1,IND: (YP) SUN TV HD
+http://dmtn.tv:8080/Walid_amara/WA23679753/373087.ts
+
+#EXTINF:-1,IND: SONY PIX FHD
+http://dmtn.tv:8080/Walid_amara/WA23679753/372983.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png", THRILL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -453,6 +477,29 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png",Unifi Sport 2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
+#EXTINF:-1,UK: SKY SPORTS F1 FHD
+http://dmtn.tv:8080/Walid_amara/WA23679753/158253.ts
+
+#EXTINF:-1,UK: SKY SPORTS F1 FHD HEVC
+http://dmtn.tv:8080/Walid_amara/WA23679753/278572.ts
+
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://dmtn.tv:8080/Walid_amara/WA23679753/158254.ts
+
+#EXTINF:-1,UK: SKY SPORTS F1 HD HEVC
+http://dmtn.tv:8080/Walid_amara/WA23679753/278573.ts
+
+#EXTINF:-1,UK: SKY SPORTS F1 FHD (G)
+http://dmtn.tv:8080/Walid_amara/WA23679753/257079.ts
+
+#EXTINF:-1,IT: SKY SPORT MOTOGP FHD
+http://dmtn.tv:8080/Walid_amara/WA23679753/97432.ts
+
+#EXTINF:-1,IT: SKY SPORT MOTOGP HD
+http://dmtn.tv:8080/Walid_amara/WA23679753/276853.ts
+
+#EXTINF:-1,IT: SKY SPORT MOTOGP HEVC
+http://dmtn.tv:8080/Walid_amara/WA23679753/97431.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
@@ -468,6 +515,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SUPERSPORT 4K UHD 1
+http://dmtn.tv:8080/Walid_amara/WA23679753/383409.ts
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SUPERSPORT 4K UHD 2
+http://dmtn.tv:8080/Walid_amara/WA23679753/383410.ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASTRO SUPERSPORT
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
