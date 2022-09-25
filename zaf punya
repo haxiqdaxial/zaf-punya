@@ -279,26 +279,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
-#EXTINF:-1,IND: (TS) KTV HD
-http://dmtn.tv:8080/Walid_amara/WA23679753/373256.ts
-
 #EXTINF:-1,IND: (SUN) KTV HD
 http://dmtn.tv:8080/Walid_amara/WA23679753/373257.ts
-
-#EXTINF:-1,IND: (YP) KTV HD
-http://dmtn.tv:8080/Walid_amara/WA23679753/373258.ts
-
-#EXTINF:-1,IND: (TS) MOVIES NOW HD
-http://dmtn.tv:8080/Walid_amara/WA23679753/373296.ts
 
 #EXTINF:-1,IND: (TS) MOVIES NOW
 http://dmtn.tv:8080/Walid_amara/WA23679753/373297.ts
 
 #EXTINF:-1,IND: (SUN) SUN TV HD
 http://dmtn.tv:8080/Walid_amara/WA23679753/373085.ts
-
-#EXTINF:-1,IND: (YP) SUN TV HD
-http://dmtn.tv:8080/Walid_amara/WA23679753/373087.ts
 
 #EXTINF:-1,IND: SONY PIX FHD
 http://dmtn.tv:8080/Walid_amara/WA23679753/372983.ts
