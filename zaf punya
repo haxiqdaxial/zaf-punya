@@ -284,20 +284,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 #EXTINF:-1 tvg-id="KTVHD" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717", KTV HD
 http://skylogic.site:8080/argoni150Con/699aadcd/36442
 
-#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
-
-#EXTINF: -1 tvg-id="SONY PIX HD" tvg-name="SONY Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", SONY PiX HD
-http://1.qqtv.nl:8080/qqtv2qqtv2/UTibNqVKFI/30625
-
 #EXTINF:-1 tvg-id="" tvg-name=" EET TV" tvg-logo="http://tvstar.live:8880/channels_icon/11033795111.png" group-title="Indian",IN-Tamil: EET TV HD 
 http://skylogic.site:8080/argoni150Con/699aadcd/51818
-
-#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://iili.io/1NuZbI.png",202 Astrox Vinmeen 
-https://bit.ly/3Bqj97r
-
-#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://iili.io/1NuZbI.png",202 Astrox Vinmeen ALT 
-http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png", THRILL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -371,6 +359,12 @@ https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png",CCM
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+
+#EXTINF:-1,IN: SONY PIX HD
+http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/7258
+
+#EXTINF:-1,IN: STAR MOVIES HD
+http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/30349
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=064b474a4851760b3ac81a7e89437410&key=18eea3fcbfb8313f46d1a2c45a573e02
@@ -513,6 +507,15 @@ http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 http://urtv.cc:80/penang189/penang189/6617
 https://mbed.cc/WrJYq
 http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/2573
+
+#EXTINF:-1,...SKY SPORTS F1 HD
+http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/12814
+
+#EXTINF:-1,...SKY SPORTS PREMIER LEAGUE HD
+http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/417542
+
+#EXTINF:-1,...SKY SPORTS MAIN EVENT
+http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/417546
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
