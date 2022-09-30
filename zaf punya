@@ -100,9 +100,9 @@ https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
-https://smetv.ml:443/play/NkmAq3gXObo1bORTZDGEMy0kBUEy_NiQ6qlyB3mxQAk
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142668
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
-http://172.96.160.37:9138/stream/live/c20629.m3u8
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142668
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -110,7 +110,7 @@ http://172.96.160.37:9138/stream/live/c20629.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/502338480
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",Dengup Tv
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.m3u8
 
@@ -122,7 +122,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-https://smetv.ml:443/play/NkmAq3gXObo1bORTZDGEMzIura_qgqt2_3cCkt9ljNI
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142670
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://stream.zeehanzgadget.com/warna
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
@@ -131,7 +131,7 @@ https://bit.ly/3Bqj97r
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://bit.ly/3Bqj97r
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
-https://smetv.ml:443/play/NkmAq3gXObo1bORTZDGEMxOoV29CS93LS6EEnsDh15M
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142671
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://stream.zeehanzgadget.com/citra
 
@@ -436,18 +436,15 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-UpFqzc8GQC1E9zmMZKWIeKaHSXeR_akrGMrF1fEuF77Hq0LvjNTsvz_W_o7mVmLQhY", FORMULA 1
 http://1.qqtv.nl:8080/qqtv2qqtv2/UTibNqVKFI/12814
 
-
 #EXTINF: -1 tvg-id="801" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Sports", Astro Arena
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142710
 #EXTINF: -1 tvg-id="801" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Sports", Astro Arena
-https://bit.ly/3Bqj97r
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142710
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png",ASTRO ARENA 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
@@ -510,7 +507,7 @@ http://urtv.cc:80/penang189/penang189/6617
 https://mbed.cc/WrJYq
 http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/2573
 
-#EXTINF:-1,...SKY SPORTS F1 HD
+EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/t4hEPJzQKCk0ediMjy5fpveGeWQiE16yEmVusA3_znrjfPqAY97Fcj1yppXD8SYGmp0", FORMULA 1
 http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/12814
 
 #EXTINF:-1,...SKY SPORTS PREMIER LEAGUE HD
