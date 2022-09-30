@@ -469,23 +469,16 @@ EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-UpFqzc8GQC1E9zmMZKWIe
 http://1.qqtv.nl:8080/qqtv2qqtv2/UTibNqVKFI/12814
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",ASTRO ARENA
+#EXTINF: -1 tvg-id="801" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" Astro Arena 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",ASTRO ARENA Sooka
-https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png",ASTRO ARENA 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF: -1 tvg-id="801" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Sports", Astro Arena Sooka Backup 
-https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
@@ -579,21 +572,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports F1 HD" tvg-logo="" group-title="UNITED KINDOM TV",UK Sky Sports F1 HD
-http://line.365tv.xyz:8060/5044572308/8298286354/117952
-
-#EXTINF:-1 tvg-id="" tvg-name="UK Bt Sport 1 HD" tvg-logo="" group-title="UNITED KINDOM TV",UK Bt Sport 1 HD
-http://line.365tv.xyz:8060/5044572308/8298286354/117993
-
-#EXTINF:-1 tvg-id="" tvg-name="UK Bt Sport 2 HD" tvg-logo="" group-title="UNITED KINDOM TV",UK Bt Sport 2 HD
-http://line.365tv.xyz:8060/5044572308/8298286354/117995
-
-#EXTINF:-1 tvg-id="" tvg-name="UK Bt Sport 3 HD" tvg-logo="" group-title="UNITED KINDOM TV",UK Bt Sport 3 HD
-http://line.365tv.xyz:8060/5044572308/8298286354/117997
-
-#EXTINF:-1 tvg-id="" tvg-name="IT | Sky Sport MotoGP" tvg-logo="" group-title="ITALY TV",IT | Sky Sport MotoGP
-http://line.365tv.xyz:8060/5044572308/8298286354/95885
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
