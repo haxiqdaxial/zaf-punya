@@ -354,35 +354,6 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",CINEMAX
 http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png",Star Movies
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142744	
-
-#EXTINF: -1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="MOVIES", Star Movie Select
-https://tinyurl.com/5yuck29y
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png",Sony Pix
-http://1.qqtv.nl:8080/qqtv2qqtv2/UTibNqVKFI/7259
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tinyurl.com/4pzwwxpm
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&Prive
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tinyurl.com/5n8ejkpt
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
-http://live.flixhub.net/hls/movies-now.m3u8
-
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
-http://live.flixhub.net/hls/mnx-hd.m3u8
-
-EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png",MY Cinema 
-https://tinyurl.com/tw3x7dx4
-
-
 EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png",MY Cinema Asia 
 http://210.210.129.106/uq2663/h/h193/index.m3u8
 
@@ -471,7 +442,7 @@ EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-UpFqzc8GQC1E9zmMZKWIe
 http://1.qqtv.nl:8080/qqtv2qqtv2/UTibNqVKFI/12814
 
 
-#EXTINF: -1 tvg-id="801" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" Astro Arena 
+#EXTINF: -1 tvg-id="801" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Sports", Astro Arena
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 
