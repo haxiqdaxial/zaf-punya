@@ -102,14 +102,15 @@ https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
 https://smetv.ml:443/play/NkmAq3gXObo1bORTZDGEMy0kBUEy_NiQ6qlyB3mxQAk
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
-https://aqfadtv.xyz/ria.mpd
+http://172.96.160.37:9138/stream/live/c20629.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD 
+http://172.96.140.34:9138/stream/live/c20477.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",Dengup Tv
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.m3u8
 
@@ -123,7 +124,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://smetv.ml:443/play/NkmAq3gXObo1bORTZDGEMzIura_qgqt2_3cCkt9ljNI
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+http://172.96.140.34:9138/stream/live/c21067.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053177
 
@@ -132,7 +133,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://smetv.ml:443/play/NkmAq3gXObo1bORTZDGEMxOoV29CS93LS6EEnsDh15M
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
-https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCLb2HauIKWNnYfl408RJvwg=Viw1/dash-wv/jitp-linearwm/2700/default_ott.mpd
+http://172.96.140.34:9138/stream/live/c20631.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -426,10 +427,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png",Unifi Sport 1
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202202/20220220/20220220163044631gzk.png",Unifi Sport 1
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png",Unifi Sport 2
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202202/20220220/202202201646255845yc.png",Unifi Sport 2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-UpFqzc8GQC1E9zmMZKWIeKaHSXeR_akrGMrF1fEuF77Hq0LvjNTsvz_W_o7mVmLQhY", FORMULA 1
@@ -450,7 +451,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/789
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASTRO SUPERSPORT
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
@@ -503,7 +504,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/New_era_F1_logo.svg.png", FORMULA 1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/789
 http://urtv.cc:80/penang189/penang189/6617
 https://mbed.cc/WrJYq
 http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/2573
