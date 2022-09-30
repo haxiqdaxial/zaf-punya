@@ -410,12 +410,6 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/s
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/171981
 http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202202/20220220/20220220163044631gzk.png",Unifi Sport 1
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202202/20220220/202202201646255845yc.png",Unifi Sport 2
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -474,15 +468,24 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-UpFqzc8GQC1E9zmMZKWIeKaHSXeR_akrGMrF1fEuF77Hq0LvjNTsvz_W_o7mVmLQhY", FORMULA 1
 http://1.qqtv.nl:8080/qqtv2qqtv2/UTibNqVKFI/12814
 
-#EXTINF:-1 tvg-id="AstroArena" group-title="Sports" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2604
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",ASTRO ARENA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",ASTRO ARENA Sooka
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png",ASTRO ARENA 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF: -1 tvg-id="801" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Sports", Astro Arena Sooka Backup 
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
@@ -577,137 +580,20 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="##### Formula 1 #####" tvg-logo="" group-title="Formula 1",##### Formula 1 #####
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113391
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports F1 HD" tvg-logo="" group-title="UNITED KINDOM TV",UK Sky Sports F1 HD
+http://line.365tv.xyz:8060/5044572308/8298286354/117952
 
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 FULL HD+" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportf1hd.png" group-title="Formula 1",SKY SPORT F1 FULL HD+
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/118808
+#EXTINF:-1 tvg-id="" tvg-name="UK Bt Sport 1 HD" tvg-logo="" group-title="UNITED KINDOM TV",UK Bt Sport 1 HD
+http://line.365tv.xyz:8060/5044572308/8298286354/117993
 
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 HD+" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportf1hd.png" group-title="Formula 1",SKY SPORT F1 HD+
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/118809
+#EXTINF:-1 tvg-id="" tvg-name="UK Bt Sport 2 HD" tvg-logo="" group-title="UNITED KINDOM TV",UK Bt Sport 2 HD
+http://line.365tv.xyz:8060/5044572308/8298286354/117995
 
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 FHD" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportf1hd.png" group-title="Formula 1",Sky Sport F1 FHD
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/68
+#EXTINF:-1 tvg-id="" tvg-name="UK Bt Sport 3 HD" tvg-logo="" group-title="UNITED KINDOM TV",UK Bt Sport 3 HD
+http://line.365tv.xyz:8060/5044572308/8298286354/117997
 
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportf1hd.png" group-title="Formula 1",Sky Sport F1 HD
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/79992
-
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 BACKUP" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportf1hd.png" group-title="Formula 1",Sky Sport F1 BACKUP
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/88678
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 DATA CHANNEL" tvg-logo="" group-title="Formula 1",F1 DATA CHANNEL
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113392
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV MAIN ENGLISH" tvg-logo="" group-title="Formula 1",F1 TV MAIN ENGLISH
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113393
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV PIT LANE" tvg-logo="" group-title="Formula 1",F1 TV PIT LANE
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113394
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV DRIVER TRACKER" tvg-logo="" group-title="Formula 1",F1 TV DRIVER TRACKER
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113395
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR LECLERC" tvg-logo="" group-title="Formula 1",F1 CAR LECLERC
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113396
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR SAINZ" tvg-logo="" group-title="Formula 1",F1 CAR SAINZ
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113397
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR VETTEL" tvg-logo="" group-title="Formula 1",F1 CAR VETTEL
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113398
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR ALBON" tvg-logo="" group-title="Formula 1",F1 CAR ALBON
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113399
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR HAMILTON" tvg-logo="" group-title="Formula 1",F1 CAR HAMILTON
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113400
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR BOTTAS" tvg-logo="" group-title="Formula 1",F1 CAR BOTTAS
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113401
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR NORRIS" tvg-logo="" group-title="Formula 1",F1 CAR NORRIS
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113402
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR RICCIARDO" tvg-logo="" group-title="Formula 1",F1 CAR RICCIARDO
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113403
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR ZHOU" tvg-logo="" group-title="Formula 1",F1 CAR ZHOU
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113405
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR GASLY" tvg-logo="" group-title="Formula 1",F1 CAR GASLY
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113406
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR PEREZ" tvg-logo="" group-title="Formula 1",F1 CAR PEREZ
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113407
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR STROLL" tvg-logo="" group-title="Formula 1",F1 CAR STROLL
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113408
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR MAGNUSSEN" tvg-logo="" group-title="Formula 1",F1 CAR MAGNUSSEN
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113409
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR SCHUMACHER" tvg-logo="" group-title="Formula 1",F1 CAR SCHUMACHER
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113410
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR RUSSEL" tvg-logo="" group-title="Formula 1",F1 CAR RUSSEL
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113411
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR VERSTAPPEN" tvg-logo="" group-title="Formula 1",F1 CAR VERSTAPPEN
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113412
-
-#EXTINF:-1 tvg-id="" tvg-name="F1 CAR TSUNODA" tvg-logo="" group-title="Formula 1",F1 CAR TSUNODA
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/113413
-
-#EXTINF:-1 tvg-id="" tvg-name="##### MotoGP #####" tvg-logo="" group-title="MotoGP",##### MotoGP #####
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117729
-
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP FULL HD+" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportmotogphd.png" group-title="MotoGP",SKY SPORT MOTOGP FULL HD+
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/118810
-
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP HD+" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportmotogphd.png" group-title="MotoGP",SKY SPORT MOTOGP HD+
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/118811
-
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP FHD" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportmotogphd.png" group-title="MotoGP",Sky Sport MotoGP FHD
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/64
-
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP HD" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportmotogphd.png" group-title="MotoGP",Sky Sport MotoGP HD
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/79993
-
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP BACKUP" tvg-logo="http://championsapp.mywire.org/ASIPTV/Picon/skysportmotogphd.png" group-title="MotoGP",Sky Sport MotoGP BACKUP
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/88679
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP COMMENTARY" tvg-logo="" group-title="MotoGP",MOTOGP COMMENTARY
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117730
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP AMBIENT" tvg-logo="" group-title="MotoGP",MOTOGP AMBIENT
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117731
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP HELICOPTER" tvg-logo="" group-title="MotoGP",MOTOGP HELICOPTER
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117732
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP 360" tvg-logo="" group-title="MotoGP",MOTOGP 360
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117733
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP ON BOARD 1" tvg-logo="" group-title="MotoGP",MOTOGP ON BOARD 1
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117734
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP ON BOARD 2" tvg-logo="" group-title="MotoGP",MOTOGP ON BOARD 2
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117735
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP ON BOARD 3" tvg-logo="" group-title="MotoGP",MOTOGP ON BOARD 3
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117736
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP ON BBOARD 4" tvg-logo="" group-title="MotoGP",MOTOGP ON BBOARD 4
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117737
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE TIMING" tvg-logo="" group-title="MotoGP",MOTOGP LIVE TIMING
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117738
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE TRACKING" tvg-logo="" group-title="MotoGP",MOTOGP LIVE TRACKING
-http://astreaming.ddns.net:80/FBbUJpJCFE/3DxAfo3lj5/117739
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="IT | Sky Sport MotoGP" tvg-logo="" group-title="ITALY TV",IT | Sky Sport MotoGP
+http://line.365tv.xyz:8060/5044572308/8298286354/95885
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
