@@ -492,10 +492,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 4K UHD 1" tvg-logo="" group-title="Sports",MY Astro Supersport 4K UHD 1
+#EXTINF: -1 tvg-id="815" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-144,q-100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports", Astro Supersport 4K UHD 1
 http://streamking.dvrdns.org:25461/live/yannie/m9q5TP/19510.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 4K UHD 2" tvg-logo="" group-title="Sports",MY Astro Supersport 4K UHD 2
+#EXTINF: -1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports", Astro Supersport 4K UHD 2
 http://streamking.dvrdns.org:25461/live/yannie/m9q5TP/101996.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
