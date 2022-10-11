@@ -290,6 +290,9 @@ http://skylogic.site:8080/argoni150Con/699aadcd/36442
 #EXTINF:-1 tvg-id="" tvg-name=" EET TV" tvg-logo="http://tvstar.live:8880/channels_icon/11033795111.png" group-title="Indian",IN-Tamil: EET TV HD 
 http://skylogic.site:8080/argoni150Con/699aadcd/51818
 
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Vellithirai" tvg-logo="" group-title="Indian",MY Astro Vellithirai
+http://streamking.dvrdns.org:25461/live/yannie/m9q5TP/19610.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png", THRILL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -482,11 +485,11 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport
 http://linears-playback.astro.com.my/vsg/416hNlVdLf6Ihj1kJFX8CFUcrplBmkn-HoA-_K63EPslI=aaga/dash-wv/jitp-linearwm/2506/default_primary.mpd
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sports", Astro Supersport 5
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.json?channel_id=7806
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.xml?channel_id=7806
