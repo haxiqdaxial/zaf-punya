@@ -491,6 +491,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 4K UHD 1" tvg-logo="" group-title="Sports",MY Astro Supersport 4K UHD 1
+http://streamking.dvrdns.org:25461/live/yannie/m9q5TP/19510.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 4K UHD 2" tvg-logo="" group-title="Sports",MY Astro Supersport 4K UHD 2
+http://streamking.dvrdns.org:25461/live/yannie/m9q5TP/101996.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.xml?channel_id=7806
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",BEIN SPORTS
@@ -514,6 +521,10 @@ http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/2573
 
 #EXTINF:-1 tvg-id="" tvg-name="F1 TV" tvg-logo="https://play-lh.googleusercontent.com/t4hEPJzQKCk0ediMjy5fpveGeWQiE16yEmVusA3_znrjfPqAY97Fcj1yppXD8SYGmp0" group-title="Sports", F1 TV
 http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/12814
+
+#EXTINF: -1 tvg-id="skysports1.uk" tvg-logo="https://www.m3u-editor.com/storage/channel-logos/0e560cb0-edd5-11eb-b11c-6f670e934a5b/1910647/343954935.jpg" group-title="SPORT", sky sport   F1  1
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/789
+
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt9e258f9dbc43612f/603d748dff74f15954098bb7/PremierLeague_ModalChannelLogo.png" group-title="Sports",UK: SKY SPORTS PREMIER LEAGUE HD
 http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/417542
