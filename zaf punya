@@ -485,12 +485,11 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport
 http://linears-playback.astro.com.my/vsg/416hNlVdLf6Ihj1kJFX8CFUcrplBmkn-HoA-_K63EPslI=aaga/dash-wv/jitp-linearwm/2506/default_primary.mpd
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sports", Astro Supersport 5
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/16324
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.json?channel_id=7806
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
-
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-144,q-100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports", Astro Supersport 4K UHD 1
 http://streamking.dvrdns.org:25461/live/yannie/m9q5TP/19510.m3u8
