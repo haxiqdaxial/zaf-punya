@@ -465,7 +465,7 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport
 https://ad2017.vhls.ru.com/lb/premium123/index.m3u8
 
 #EXTINF: -1 tvg-id="812" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sports", Astro Supersport 2
-http://iptvtree.net:8080/i4stream/d78b24fc9a18/157556
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.xml?channel_id=3387
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASTRO SUPERSPORT 2
@@ -494,7 +494,7 @@ https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/16324
 https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/16324
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-144,q-100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports", Astro Supersport 5
-https://bit.ly/3S4Yx9F
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports", Astro Supersport 4K UHD 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
