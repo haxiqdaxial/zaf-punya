@@ -280,17 +280,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
-#EXTINF:-1 tvg-id="KTVHD" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717", KTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.xml?channel_id=15623
-http://skylogic.site:8080/argoni150Con/699aadcd/36442
-
-#EXTINF:-1 tvg-id="" tvg-name=" EET TV" tvg-logo="http://tvstar.live:8880/channels_icon/11033795111.png" group-title="Indian",IN-Tamil: EET TV HD 
-http://skylogic.site:8080/argoni150Con/699aadcd/51818
-
-#EXTINF:-1 tvg-id="" tvg-name="MY Astro Vellithirai" tvg-logo="" group-title="Indian",MY Astro Vellithirai
-http://streamking.dvrdns.org:25461/live/yannie/m9q5TP/19610.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png", THRILL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -492,7 +481,7 @@ https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/16324
 https://goodmyth.xyz:8443/f.mcveigh1@cox.net/oJ7D7ao6fS/16324
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-144,q-100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports", Astro Supersport 5
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports", Astro Supersport 4K UHD 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
