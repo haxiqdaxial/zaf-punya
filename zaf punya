@@ -486,6 +486,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 #EXTINF: -1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports", Astro Supersport 4K UHD 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
+#EXTINF: -1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title="UK ➾ Football", UK: LFC TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/4721
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.xml?channel_id=7806
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",BEIN SPORTS
