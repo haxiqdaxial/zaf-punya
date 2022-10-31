@@ -16,27 +16,28 @@ https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386856
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
 https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386857
 
+
 EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png", TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386858
 #EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png", TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386858
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png",TV3 
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386858
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", NTV7
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386863
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386864
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png", TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386865
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
@@ -331,7 +332,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
 #EXTINF: -1 tvg-id="412" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="Movies", CINEMAX
-http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/586654666
 
 EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png",MY Cinema Asia 
 http://210.210.129.106/uq2663/h/h193/index.m3u8
