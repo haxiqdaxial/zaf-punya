@@ -482,15 +482,20 @@ http://p2052.securepoint.io:2052/Ronab47/NRcK38wgWy9q/1003865
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.json?channel_id=7806
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5 HD
-http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/425446
+http://p2052.securepoint.io:2052/Steventest/Jb3zGpWdzmCb/1003865
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Sports", Premier League TV
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E9RYsHgXGyIrRmeocd2PSiI
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.json?channel_id=7806
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5 (Backup)
 http://p2052.securepoint.io:2052/Steventest/Jb3zGpWdzmCb/1003865
 
-#EXTINF: -1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports", Astro Supersport 4K UHD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.xml?channel_id=3434
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASTRO SUPERSPORT 4 HD
+#EXTINF: -1 tvg-id="814" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sports", Astro Supersport 4 (Backup)
 http://p2052.securepoint.io:2052/Steventest/Jb3zGpWdzmCb/1003864
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
