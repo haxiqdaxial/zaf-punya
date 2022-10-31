@@ -9,12 +9,12 @@
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
-http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live01.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="hhttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live02.mpd
 
 EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png", TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
