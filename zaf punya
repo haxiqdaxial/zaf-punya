@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live01.mpd
+https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/45b86524-2b1c-51fc-995a-1049c9d33a58/default_dash.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="hhttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
