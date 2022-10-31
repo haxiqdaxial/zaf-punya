@@ -487,7 +487,7 @@ http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/425446
 #EXTINF: -1 tvg-id="815" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Sports", Premier League TV
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E9RYsHgXGyIrRmeocd2PSiI
 
-#EXTINF: -1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports", Astro Supersport 4K UHD 2
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5 (Backup)
 http://p2052.securepoint.io:2052/Steventest/Jb3zGpWdzmCb/1003865
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports", Astro Supersport 4K UHD 2
