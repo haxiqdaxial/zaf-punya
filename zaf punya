@@ -9,12 +9,12 @@
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
-https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/45b86524-2b1c-51fc-995a-1049c9d33a58/default_dash.mpd
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386856
 
 #EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="hhttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live02.mpd
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/522386857
 
 EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png", TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
@@ -307,17 +307,17 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR9escLrvgZ92S18WxRwA3rI/m3u8
 #EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2304
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/586654654
 
 #EXTINF:-1 tvg-id="HBOFamily" ch-number="414" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",414 HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5053
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/586654657
 
 #EXTINF:-1 tvg-id="HBOHits" ch-number="415" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",415 HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5055
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+https://m3u-editor.com/serve/c57d0fc0-a29b-11ec-8996-9ff88ae58ef2/586654658
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbosignature.png",HBO SIGNATURE HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142740	
@@ -488,13 +488,10 @@ http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/425446
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E9RYsHgXGyIrRmeocd2PSiI
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports", Astro Supersport 4K UHD 2
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/348094
+http://p2052.securepoint.io:2052/Steventest/Jb3zGpWdzmCb/1003865
 
 #EXTINF: -1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports", Astro Supersport 4K UHD 2
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/348095
-
-#EXTINF: -1 tvg-id="liverpoolfc tv" tvg-name="LFC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title= LFC TV
-http://iptvtree.net:8080/86488e81/5e48c38fdd/4721
+http://p2052.securepoint.io:2052/Steventest/Jb3zGpWdzmCb/1003864
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://epg.pm/api/epg.xml?channel_id=7806
