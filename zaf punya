@@ -524,7 +524,7 @@ http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/789
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+https://live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #EXTINF: -1 tvg-id="SPOTV" group-title="Sports" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",816 SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
