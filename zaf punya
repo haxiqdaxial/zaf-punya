@@ -205,8 +205,13 @@ https://aqfadtv.xyz/live/vaanavil/index.mpd
 # https://linears-playback.astro.com.my/vsg/41eMhI4QyeFWjMWsv49tqwkqotPKUUB12aAl3ajwJrq6Q=f1tf/dash-wv/jitp-linearwm/2105/default_primary.mpd
 https://aqfadtv.xyz/live/vinmeen/index.mpd
 
+#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Indian" tvg-logo="https://aqfadtv.xyz/logos/AstroVellithirai.png",203 Astro Vellithirai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5073
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
+
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Movies" tvg-logo="https://aqfadtv.xyz/logos/AstroVellithirai.png",203 Astro Vellithirai
-# https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
+https://aqfadtv.xyz/live/vellithirai/index.mpd
 
 #EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -817,7 +822,7 @@ https://aqfadtv.xyz/live/supersport5/index.mpd
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport5.png",815 Astro SuperSport 5 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+https://aqfadtv.xyz/live/supersport5/index.mpd
 
 #EXTINF: -1 tvg-id="SPOTV" group-title="Sports" ch-number="816" tvg-logo="https://aqfadtv.xyz/logos/SPOTV.png",816 SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
