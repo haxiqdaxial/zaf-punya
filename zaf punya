@@ -1736,16 +1736,16 @@ https://aqfadtv.xyz/live/sonypix/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://aqfadtv.xyz/logos/SonyPIX.png" group-title="Movies",Sony PIX
 #EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=Sony_Pix_HD
-https://aqfadtv.xyz/live/sonypix/index.m3u8
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://aqfadtv.xyz/logos/SonyPIX.png" group-title="Movies",Sony PIX
 #EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=Sony_Pix_HD
-http://starshare.live:8080/live/G5B59WjSyf/9AvLOA7tdL/147.ts
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="StarMoviesHDIndia.in" tvg-logo="https://aqfadtv.xyz/logos/StarMovies.png" group-title="Movies",Star Movies
-http://p2052.securepoint.io:2052/jasonevansline/0jyvB88Sj6/998830
+
 
 #EXTINF:-1 tvg-id="StarMoviesSelectHD.in" tvg-logo="https://aqfadtv.xyz/logos/StarMoviesSelect.png" group-title="Movies",Star Movies Select
 http://humiptv.live:8080/live/500757885/3356646354/218.ts
