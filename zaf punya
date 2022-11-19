@@ -1593,6 +1593,9 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 #EXTINF:-1 group-title="Astro" tvg-id="AstroSensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi
 # http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
 
+#EXTINF:-1 group-title="Astro" tvg-id="Abang Long Fadil 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlmMmUyMDAtNDNlNi00ZjJlLWFjM2QtZWNjODA4OGMzZGI0XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg",Abang Long Fadil 3
+https://vodejitp-asset-playback-b.astr0.com.my/v1/default/dash-wv/vode/d79d49c6-9ede-5da2-a51b-e05313ecf608/default_primary.mpd
+
 #EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1002" tvg-logo="https://aqfadtv.xyz/logos/Zee5.png",Zee5
 https://aqfadtv.xyz/live/zeecinema/index.m3u8
 
@@ -1742,7 +1745,7 @@ http://humiptv.live:8080/live/Musasidiqi/Musasidiqi87/9381.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://aqfadtv.xyz/logos/SonyPIX.png" group-title="Movies",Sony PIX
 #EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=Sony_Pix_HD
-https://live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+http://humiptv.live:8080/live/Musasidiqi/Musasidiqi87/9381.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesHDIndia.in" tvg-logo="https://aqfadtv.xyz/logos/StarMovies.png" group-title="Movies",Star Movies
 http://humiptv.live:8080/live/Musasidiqi/Musasidiqi87/9384.m3u8
