@@ -1421,11 +1421,6 @@ https://av-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/XingKongTV
 https://av-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
-#EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1001" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",SINGAPORE PLAYLIST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
-https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
-
 #EXTINF:-1  tvg-id="Ch 5" group-title="Singapore - Local" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
@@ -1468,9 +1463,6 @@ https://aqfadtv.xyz/live/mewatch/gem/index.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroSensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi
 # http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
-
-#EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1002" tvg-logo="https://aqfadtv.xyz/logos/Zee5.png",ZEE5
-https://aqfadtv.xyz/live/zeetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTV.in" group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526&format=png",Zee TV
 https://aqfadtv.xyz/live/zeetv/index.m3u8
@@ -1685,11 +1677,6 @@ http://dtv21.org:2082/bokidan1_795671/09aQoeqF/30313
 
 #EXTINF:-1 tvg-id="FOX SPORTS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="FIFA WORLD CUP 2022",FOX SPORT 1
 https://webdi.openhd.lol/ddy1/premium39/index.m3u8|referer=https://widevine.licenses4.me/&e=.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1004" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",OTHERS
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="SPOTVAsia" group-title="Sports" tvg-logo="https://aqfadtv.xyz/logos/SPOTV.png",SPOTV (Asia Feed)
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
