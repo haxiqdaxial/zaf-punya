@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="CHN" group-title="Info" ch-number="97" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",DO NOT SELL THIS PLAYLIST!
-https://aqfadtv.xyz/videos/info/index.mpd
+#EXTM3U billed-msg="🔥HAZIQ DANIAL MOHD IQBAL PLAYLIST  🔥" 
 
 #EXTINF:-1 tvg-id="OneCentThief" group-title="Special Channel" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OCT_HD.png",100 One Cent Thief
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -394,6 +393,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Movies",MOVIES NOW HD
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/156022
 
 #EXTINF:-1 tvg-id="HBOHits1" ch-number="415" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",415 HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1669,6 +1671,12 @@ https://webdi.openhd.lol/ddyx2/premium295/index.m3u8?|referer=https://widevine.l
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/wc2022-2/
 #https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#KODIPROP:inputstream.adaptive.license_key=https://makanja.xyz/clearkey/web/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://i.postimg.cc/xjzrxwhW/fifa.jpg",WORLD CUP SELECT
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/30313
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2/
