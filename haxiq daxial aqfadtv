@@ -1652,6 +1652,32 @@ https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJh
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-2/
 https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFaRFF4T0RBdE1URmlZeTAwTURFekxXSmtPRFF0TnpKaFptRXhZVGs1WmpreSIsIndtb3BpZCI6MzIsImV4cCI6MTY3MDM4MjAxNywiaWF0IjoxNjY5Nzc3MjE3fQ.aLHYps97fFBrLjMzE8NaE_Et4q2nMkRjgZ0HEsXpkgo
 
+#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="FIFA WORLD CUP 2022",ASTRO FWC 1
+#KODIPROP:inputstream=inputstream.adaptive
+https://webdi.openhd.lol/ddyx2/premium294/index.m3u8?|referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="FIFA WORLD CUP 2022",ASTRO FWC 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://webdi.openhd.lol/ddyx2/premium295/index.m3u8?|referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:-1 tvg-id="WC2022-1" group-title="FIFA WORLD CUP 2022" ch-number="825" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 1 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/wc2022-1/
+#https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
+
+#EXTINF:-1 tvg-id="WC2022-2" group-title="FIFA WORLD CUP 2022" ch-number="826" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 2 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/wc2022-2/
+#https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2/
+#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="FIFA WORLD CUP 2022",ASTRO ARENA 2
+#https://d2ekjg3g3mxanc.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
+
+#EXTINF:-1 tvg-id="FOX SPORTS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="FIFA WORLD CUP 2022",FOX SPORT 1
+https://webdi.openhd.lol/ddy1/premium39/index.m3u8|referer=https://widevine.licenses4.me/&e=.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1004" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",OTHERS
@@ -1672,7 +1698,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="StarMoviesHDIndia.in" tvg-logo="https://aqfadtv.xyz/logos/StarMovies.png" group-title="Movies",Star Movies
-http://xtream.efiberbd.net:25461/mkaua/stream/31
+http://humiptv.live:8080/live/500757885/3356646354/979.ts
 
 #EXTINF:-1 tvg-id="StarMoviesSelectHD.in" tvg-logo="https://aqfadtv.xyz/logos/StarMoviesSelect.png" group-title="Movies",Star Movies Select
 http://humiptv.live:8080/live/500757885/3356646354/218.ts
