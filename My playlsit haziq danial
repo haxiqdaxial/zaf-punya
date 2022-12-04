@@ -664,7 +664,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroArena2" group-title="Sports" ch-number="802" tvg-logo="https://aqfadtv.xyz/logos/AstroArena2.png",802 Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0p3TFQxeHlCb1BJT09fX3VIcWxwU2Iyc05rOFdOUm5EX2F0NmZQSnNQSWYzS3piczI2dzNpNnRYSjE5elM5LURSa0loZVIwR0d5R0N5QXRQVGE2S1VHeC16QUtCRWF4MXo3eVUzZFl6WnBYeDFLQnh3ZHItX0lzNmNPQ25ITmZFTjI4Q0g3OEFZWjE1VDBVdllKczVWenp1VF9IMTVUYUtMaTM4NFlXYnA4ZWx4dzJZN19ZNk5CODJ6TjlVc0tuUlhNV1FpTk1RMW9rMl9mUVpkMHFSYnRZSVNfY0pwQjRENWlqaWJJTF94bXA3d1JJenhBX2JUNnU1TFB3V0NZUWZMZkh5Q0ZGUUJQblVLN3Y0V0lDZWNFbjZlM2VtS1B0SFFYN1BpeXJtMHZuNlJGVmtybDkyRU4tZzl6a3dzcHUxRnlWVUZ4Um1aZUFKakk3TnFSWjBIdDVEeExPeVVWR2UwVVBRcGstUUdjZG82alFpY1h0c05UTXpJV2g5Vmt1OTUxY3JtMlVPRUhFekdQei1iUGItSHpEUlRBMDdpal9tM0dVSlIxVGNQMzE4NElQc3ZnZV94OWF5VXBkZUM4LURGNTdfRVI3N3RHeVpJMVZQN2ZBT0ZXeFFaZm1uYUVBRHhNMHJMV0FoRUVoQ2NIVXcwWHFacklPUHBUd0hQdDZzPSZjb250ZXh0VHlwZT1ub25lJmlkPTE0NzE4NjU4IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImM3ZTg5MzM0YTM5NTQ4MzU5MzA0MzEzZjk3N2E0Yzg0IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHdKd0xUMXh5Qm9QSU9PX191SHFscFNiMnNOazhXTlJuRF9hdDZmUEpzUElmM0t6YnMyNnczaTZ0WEoxOXpTOS1EUmtJaGVSMEdHeUdDeUF0UFRhNktVR3gtekFLQkVheDF6N3lVM2RZelpwWHgxS0J4d2RyLV9JczZjT0NuSE5mRU4yOENINzhBWVoxNVQwVXZZSnM1Vnp6dVRfSDE1VGFLTGkzODRZV2JwOGVseHcyWTdfWTZOQjgyek45VXNLblJYTVdRaU5NUTFvazJfZlFaZDBxUmJ0WUlTX2NKcEI0RDVpamliSUxfeG1wN3dSSXp4QV9iVDZ1NUxQd1dDWVFmTGZIeUNGRlFCUG5VSzd2NFdJQ2VjRW42ZTNlbUtQdEhRWDdQaXlybTB2bjZSRlZrcmw5MkVOLWc5emt3c3B1MUZ5VlVGeFJtWmVBSmpJN05xUlowSHQ1RHhMT3lVVkdlMFVQUXBrLVFHY2RvNmpRaWNYdHNOVE16SVdoOVZrdTk1MWNybTJVT0VIRXpHUHotYlBiLUh6RFJUQTA3aWpfbTNHVUpSMVRjUDMxODRJUHN2Z2VfeDlheVVwZGVDOC1ERjU3X0VSNzd0R3laSTFWUDdmQU9GV3hRWmZtbmFFQUR4TTByTFdBaEVFaENjSFV3MFhxWnJJT1BwVHdIUHQ2cz0iLCJ1ZGlkIjoiNDI1ZDQxODAtMTFiYy00MDEzLWJkODQtNzJhZmExYTk5ZjkyX1dFQi01NzNiNTY5Yi0wZjQ0LThjOWMtZDQ0OC0zNWE5NjZjZjE3MjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=2A4NDpfWlczoE6A%2fhyNXt4FinfA%3d&sessionId=031e4369-a39b-aaf6-cf9e-dac24b338684:77b7ddb3-cd86-317b-1411-63390e08484a&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L3BpYWxhLWR1bmlhLTIwMjItLWVzcC1sd24tZ2VyLzEyMDg0NTIvcGxheWVyP2xpbmVhcklkPTEwMDI0MTk5MyZpc0xpdmU9dHJ1ZQ==
-https://d2ekjg3g3mxanc.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFaRFF4T0RBdE1URmlZeTAwTURFekxXSmtPRFF0TnpKaFptRXhZVGs1WmpreSIsIndtb3BpZCI6MzIsImV4cCI6MTY3MDM4MjAxNywiaWF0IjoxNjY5Nzc3MjE3fQ.aLHYps97fFBrLjMzE8NaE_Et4q2nMkRjgZ0HEsXpkgo
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+http://iptv12k.com:35461/80203091402/213445/13547
+#https://ayuh.jomlah.download/arena2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2/
+#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="FIFA WORLD CUP 2022",ASTRO ARENA 2
+#https://d2ekjg3g3mxanc.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1601
@@ -675,21 +682,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085/
 #EXTINF:-1 tvg-id="AstroSupersportPlus" ch-number="809" group-title="Sports" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport.png",809 Astro SuperSport Plus HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
-#EXTINF:-1 tvg-name="AOTGLive1" ch-number="806" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro GO Live Event 1 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
-#EXTINF:-1 tvg-name="AOTGLive2" ch-number="807" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro GO Live Event 2 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
-#EXTINF:-1 tvg-name="AOTGLive3" ch-number="808" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro Go Live Event 3 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
@@ -1712,6 +1704,22 @@ https://bcovlive-a.akamaihd.net/639a25050de74fc999ad3fbc88c305ab/ap-northeast-1/
 
 #EXTINF:-1 group-title="Sports" tvg-id="SPOTV2Asia" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2.png",SPOTV2 (Asia Feed)
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="FIFA WORLD CUP 2022",FOX SPORT 1
+https://webdi.openhd.lol/ddy1/premium39/index.m3u8|referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="FIFA WORLD CUP 2022",FOX SPORT 1 (BACKUP)
+https://webdi.openhd.lol/ddy1/premium39/index.m3u8|referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:-1 tvg-id="WC2022-1" group-title="FIFA WORLD CUP 2022" ch-number="825" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 1 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/wc2022-1/
+#https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
+
+#EXTINF:-1 tvg-id="WC2022-2" group-title="FIFA WORLD CUP 2022" ch-number="826" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 2 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/wc2022-2/
+#https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
