@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="CHN" group-title="Info" ch-number="97" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",DO NOT SELL THIS PLAYLIST!
-https://aqfadtv.xyz/videos/info/index.mpd
+
+#EXTM3U billed-msg="🔥WELCOME: HAZIQ DANIAL MOHD IQBAL  🔥" 
 
 #EXTINF:-1 tvg-id="OneCentThief" group-title="Special Channel" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OCT_HD.png",100 One Cent Thief
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -169,7 +169,7 @@ https://aqfadtv.xyz/live/vaanavil/index.mpd
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Indian" tvg-logo="https://aqfadtv.xyz/logos/AstroVinmeen.png",202 Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
-
+https://stream.zeehanzgadget.com/vinmeen
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Indian" tvg-logo="https://aqfadtv.xyz/logos/AstroVellithirai.png",203 Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -379,6 +379,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/manifest.mpd
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 # https://aqfadtv.xyz/hbogo/hbo/index.m3u8
 https://aqfadtv.xyz/live/hbo/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIE",MOVIES NOW HD
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/156022
 
 #EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -674,6 +677,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
+#EXTINF:-1 tvg-name="AOTGLive1" ch-number="806" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro GO Live Event 1 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
+#EXTINF:-1 tvg-name="AOTGLive2" ch-number="807" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro GO Live Event 2 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
+#EXTINF:-1 tvg-name="AOTGLive3" ch-number="808" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro Go Live Event 3 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
 #EXTINF:-1 tvg-id="SPOTV2" ch-number="810" group-title="Sports" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2.png",810 SPOTV2 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
@@ -701,13 +719,15 @@ https://aqfadtv.xyz/live/supersport4/index.mpd
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport5.png",815 Astro SuperSport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0p3TFQxeHlCb1BJT09fX3VIcWxwU2Iyc05rOFdOUm5EX2F0NmZQSnNQSWYzS3piczI2dzNpNnRYSjE5elM5LURSa0loZVIwR0d5R0N5QXRQVGE2S1VHeC16QUtCRWF4MXo3eVUzZFl6WnBYeDFLQnh3ZHItX0lzNmNPQ25ITmZFTjI4Q0g3OEFZWjE1VDBVdllKczVWenp1VF9IMTVUYUtMaTM4NFlXYnA4ZWx4dzJZN19ZNk5CODJ6TjlVc0tuUlhNV1FpTk1RMW9rMl9mUVpkMHFSYnRZSVNfY0pwQjRENWlqaWJJTF94bXA3d1JJenhBX2JUNnU1TFB3V0NZUWZMZkh5Q0ZGUUJQblVLN3Y0V0lDZWNFbjZlM2VtS1B0SFFYN1BpeXJtMHZuNlJGVmtybDkyRU4tZzl6a3dzcHUxRnlWVUZ4Um1aZUFKakk3TnFSWjBIdDVEeExPeVVWR2UwVVBRcGstUUdjZG82alFpY1h0c05UTXpJV2g5Vmt1OTUxY3JtMlVPRUhFekdQei1iUGItSHpEUlRBMDdpal9tM0dVSlIxVGNQMzE4NElQc3ZnZV94OWF5VXBkZUM4LURGNTdfRVI3N3RHeVpJMVZQN2ZBT0ZXeFFaZm1uYUVBRHhNMHJMV0FoRUVoQ2NIVXcwWHFacklPUHBUd0hQdDZzPSZjb250ZXh0VHlwZT1ub25lJmlkPTE0NzMxMTU1IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjlmOTlmZmEyX2QyN2FfNGNmYl9hMDViXzgzYjkxZGI4NDZkZiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3SndMVDF4eUJvUElPT19fdUhxbHBTYjJzTms4V05SbkRfYXQ2ZlBKc1BJZjNLemJzMjZ3M2k2dFhKMTl6UzktRFJrSWhlUjBHR3lHQ3lBdFBUYTZLVUd4LXpBS0JFYXgxejd5VTNkWXpacFh4MUtCeHdkci1fSXM2Y09DbkhOZkVOMjhDSDc4QVlaMTVUMFV2WUpzNVZ6enVUX0gxNVRhS0xpMzg0WVdicDhlbHh3Mlk3X1k2TkI4MnpOOVVzS25SWE1XUWlOTVExb2syX2ZRWmQwcVJidFlJU19jSnBCNEQ1aWppYklMX3htcDd3Ukl6eEFfYlQ2dTVMUHdXQ1lRZkxmSHlDRkZRQlBuVUs3djRXSUNlY0VuNmUzZW1LUHRIUVg3UGl5cm0wdm42UkZWa3JsOTJFTi1nOXprd3NwdTFGeVZVRnhSbVplQUpqSTdOcVJaMEh0NUR4TE95VVZHZTBVUFFway1RR2NkbzZqUWljWHRzTlRNeklXaDlWa3U5NTFjcm0yVU9FSEV6R1B6LWJQYi1IekRSVEEwN2lqX20zR1VKUjFUY1AzMTg0SVBzdmdlX3g5YXlVcGRlQzgtREY1N19FUjc3dEd5WkkxVlA3ZkFPRld4UVpmbW5hRUFEeE0wckxXQWhFRWhDY0hVdzBYcVpySU9QcFR3SFB0NnM9IiwidWRpZCI6IjQyNWQ0MTgwLTExYmMtNDAxMy1iZDg0LTcyYWZhMWE5OWY5Ml9XRUItNTczYjU2OWItMGY0NC04YzljLWQ0NDgtMzVhOTY2Y2YxNzI2IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3d%3d&signature=Rzhlwa4bPptYpOrBglKyYL9ZGws%3d&sessionId=bcfcc285-71ce-85b4-0641-2d41f1d52466:ae3eab7e-922c-9d9e-4979-6e0610a95c04&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2J1bmRlc2xpZ2EtLXNjaGFsa2UtMDQtdnMtbS1nbGFkYmFjaC8xMjA5NDUyL3BsYXllcj9saW5lYXJJZD0xMDAyNDE5NDAmaXNMaXZlPXRydWU=
-https://aqfadtv.xyz/live/supersport5/index.mpd
+https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Fox Sports 1 
+#http://89.187.175.143:80/3056/index.m3u8
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport5.png",815 Astro SuperSport 5 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0p3TFQxeHlCb1BJT09fX3VIcWxwU2Iyc05rOFdOUm5EX2F0NmZQSnNQSWYzS3piczI2dzNpNnRYSjE5elM5LURSa0loZVIwR0d5R0N5QXRQVGE2S1VHeC16QUtCRWF4MXo3eVUzZFl6WnBYeDFLQnh3ZHItX0lzNmNPQ25ITmZFTjI4Q0g3OEFZWjE1VDBVdllKczVWenp1VF9IMTVUYUtMaTM4NFlXYnA4ZWx4dzJZN19ZNk5CODJ6TjlVc0tuUlhNV1FpTk1RMW9rMl9mUVpkMHFSYnRZSVNfY0pwQjRENWlqaWJJTF94bXA3d1JJenhBX2JUNnU1TFB3V0NZUWZMZkh5Q0ZGUUJQblVLN3Y0V0lDZWNFbjZlM2VtS1B0SFFYN1BpeXJtMHZuNlJGVmtybDkyRU4tZzl6a3dzcHUxRnlWVUZ4Um1aZUFKakk3TnFSWjBIdDVEeExPeVVWR2UwVVBRcGstUUdjZG82alFpY1h0c05UTXpJV2g5Vmt1OTUxY3JtMlVPRUhFekdQei1iUGItSHpEUlRBMDdpal9tM0dVSlIxVGNQMzE4NElQc3ZnZV94OWF5VXBkZUM4LURGNTdfRVI3N3RHeVpJMVZQN2ZBT0ZXeFFaZm1uYUVBRHhNMHJMV0FoRUVoQ2NIVXcwWHFacklPUHBUd0hQdDZzPSZjb250ZXh0VHlwZT1ub25lJmlkPTE0NzMxMTU1IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjlmOTlmZmEyX2QyN2FfNGNmYl9hMDViXzgzYjkxZGI4NDZkZiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3SndMVDF4eUJvUElPT19fdUhxbHBTYjJzTms4V05SbkRfYXQ2ZlBKc1BJZjNLemJzMjZ3M2k2dFhKMTl6UzktRFJrSWhlUjBHR3lHQ3lBdFBUYTZLVUd4LXpBS0JFYXgxejd5VTNkWXpacFh4MUtCeHdkci1fSXM2Y09DbkhOZkVOMjhDSDc4QVlaMTVUMFV2WUpzNVZ6enVUX0gxNVRhS0xpMzg0WVdicDhlbHh3Mlk3X1k2TkI4MnpOOVVzS25SWE1XUWlOTVExb2syX2ZRWmQwcVJidFlJU19jSnBCNEQ1aWppYklMX3htcDd3Ukl6eEFfYlQ2dTVMUHdXQ1lRZkxmSHlDRkZRQlBuVUs3djRXSUNlY0VuNmUzZW1LUHRIUVg3UGl5cm0wdm42UkZWa3JsOTJFTi1nOXprd3NwdTFGeVZVRnhSbVplQUpqSTdOcVJaMEh0NUR4TE95VVZHZTBVUFFway1RR2NkbzZqUWljWHRzTlRNeklXaDlWa3U5NTFjcm0yVU9FSEV6R1B6LWJQYi1IekRSVEEwN2lqX20zR1VKUjFUY1AzMTg0SVBzdmdlX3g5YXlVcGRlQzgtREY1N19FUjc3dEd5WkkxVlA3ZkFPRld4UVpmbW5hRUFEeE0wckxXQWhFRWhDY0hVdzBYcVpySU9QcFR3SFB0NnM9IiwidWRpZCI6IjQyNWQ0MTgwLTExYmMtNDAxMy1iZDg0LTcyYWZhMWE5OWY5Ml9XRUItNTczYjU2OWItMGY0NC04YzljLWQ0NDgtMzVhOTY2Y2YxNzI2IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3d%3d&signature=Rzhlwa4bPptYpOrBglKyYL9ZGws%3d&sessionId=bcfcc285-71ce-85b4-0641-2d41f1d52466:ae3eab7e-922c-9d9e-4979-6e0610a95c04&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2J1bmRlc2xpZ2EtLXNjaGFsa2UtMDQtdnMtbS1nbGFkYmFjaC8xMjA5NDUyL3BsYXllcj9saW5lYXJJZD0xMDAyNDE5NDAmaXNMaXZlPXRydWU=
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
 #EXTINF: -1 tvg-id="SPOTV" group-title="Sports" ch-number="816" tvg-logo="https://aqfadtv.xyz/logos/SPOTV.png",816 SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
