@@ -2293,6 +2293,9 @@ https://drive.aqfad.workers.dev/0:/Movies/Abang.Long.Fadil.3.2022.1080p.AOTG.WEB
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.xyz/images/JerangkungDalamAlmari.png",Jerangkung Dalam Almari
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Jerangkung.Dalam.Almari.2022.1080p.WEB-DL.mkv
 
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MxYzFmNGYtZjI0ZC00OWY1LWE1MTMtNWNjODE0MjIwMTQzXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg",Anak Rimau 
+https://multiup.org/download/c843a49b8119c1ae8f63cf5c0e737ca2/Anak.Rimau.2022.720p.WEB-DL-ms.en.x264.AAC-PENCURiMOViE.CFD.mkv
+
 #EXTINF:-1 type="movie" group-title="Astro Citra" tvg-logo="https://aqfadtv.xyz/images/MandiMayat.png",Mandi Mayat
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Mandi.Mayat.2022.Astro.Citra.HDTV.1080p.WMFHD.mkv
 
