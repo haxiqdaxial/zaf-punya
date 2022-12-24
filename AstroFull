@@ -414,7 +414,7 @@ https://brgjd.com/dash-wv/eGG.mpd|license_type=clearkey&license_key=https://skyn
 #EXTINF:-1 group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" tvg-id="801" ,Astro Arena HD
 https://brgjd.com/dash-wv/AstroArena.mpd|license_type=clearkey&license_key=https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/2604
 #EXTINF:-1 group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" tvg-id="802" ,Astro Arena 2 HD
-https://brgjd.com/dash-wv/AstroArena2.mpd.php|license_type=clearkey&license_key=https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/5057&user-agent=astrogo&referrer=https://astrogo.astro.com.my
+https://linears-playback.astro.com.my/vsg/41tTgjr10iFw7v46BYUnZAym5Y5nov0nZXTdk5dWR6fLY=SPnO/dash-wv/jitp-linearwm/5057/default_ott.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" tvg-id="811" ,Astro SuperSport HD
 https://brgjd.com/dash-wv/AstroSupersport.mpd|license_type=clearkey&license_key=https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/601&referrer=https://astrogo.astro.com.my
 #EXTINF:-1 group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" tvg-id="812" ,Astro SuperSport 2[A]HD
