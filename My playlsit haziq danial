@@ -49,7 +49,7 @@ https://bks02.starhubgo.com/bpk-token/1aa@cfclixdrimb3ozefgmypsewqo5kryc03cljzmu
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700/
-https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCKkSR25lnMDxIGSaxGHBvQY=H4xU/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://aqfadtv.xyz/live/prima/index.mpd
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
