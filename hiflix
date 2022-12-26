@@ -115,9 +115,9 @@ http://hotz.vip:2082/live/haziqdanial/abc12345/79.m3u8
 http://hotz.vip:2082/live/haziqdanial/abc12345/82.m3u8
 #EXTINF: -1 tvg-id="ColorsHindi" tvg-name="MY: COLORS" tvg-logo="https://i.imgur.com/vmw5kdS.png" group-title="INDIA", MY: COLORS
 http://hotz.vip:2082/live/haziqdanial/abc12345/83.m3u8
-#EXTINF: -1 tvg-id="204" tvg-name="MY: CHUTTI TV" tvg-logo="https://i.imgur.com/RNENF6o.png" group-title="INDIA", MY: CHUTTI TV
+#EXTINF: -1 tvg-id="CHN" tvg-name="MY: CHUTTI TV" tvg-logo="https://i.imgur.com/RNENF6o.png" group-title="INDIA", MY: CHUTTI TV
 http://hotz.vip:2082/live/haziqdanial/abc12345/84.m3u8
-#EXTINF: -1 tvg-id="313" tvg-name="MY: ADITHYA" tvg-logo="https://i.imgur.com/jsPTh8D.png" group-title="INDIA", MY: ADITHYA
+#EXTINF: -1 tvg-id="CHN" tvg-name="MY: ADITHYA" tvg-logo="https://i.imgur.com/jsPTh8D.png" group-title="INDIA", MY: ADITHYA
 http://hotz.vip:2082/live/haziqdanial/abc12345/85.m3u8
 #EXTINF: -1 tvg-id="221" tvg-name="MY: STAR VIJAY" tvg-logo="https://i.imgur.com/Tubfm0U.png" group-title="INDIA", MY: STAR VIJAY
 http://hotz.vip:2082/live/haziqdanial/abc12345/86.m3u8
@@ -297,35 +297,31 @@ http://hotz.vip:2082/live/haziqdanial/abc12345/4180.m3u8
 http://hotz.vip:2082/live/haziqdanial/abc12345/4226.m3u8
 #EXTINF: -1 tvg-name="AFF BACKUP 2" tvg-logo="https://i.imgur.com/AE8ErG1.png" group-title="SPORTS", AFF BACKUP 2
 http://hotz.vip:2082/live/haziqdanial/abc12345/4371.m3u8
-#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.imgur.com/uq3aoX7.png" group-title="FIFA WORLD CUP 2022", MY: Astro Super Sport 1
+#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.imgur.com/uq3aoX7.png" group-title="EPL SPORTS", MY: Astro Super Sport 1
 http://hotz.vip:2082/live/haziqdanial/abc12345/170.m3u8
-#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.imgur.com/51Io0vK.png" group-title="FIFA WORLD CUP 2022", MY: Astro Super Sport 2
+#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.imgur.com/51Io0vK.png" group-title="EPL SPORTS", MY: Astro Super Sport 2
 http://hotz.vip:2082/live/haziqdanial/abc12345/171.m3u8
-#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.imgur.com/bGlnVta.png" group-title="FIFA WORLD CUP 2022", MY: Astro Super Sport 3
+#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.imgur.com/bGlnVta.png" group-title="EPL SPORTS", MY: Astro Super Sport 3
 http://hotz.vip:2082/live/haziqdanial/abc12345/172.m3u8
-#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1[B]" tvg-logo="https://i.imgur.com/uq3aoX7.png" group-title="FIFA WORLD CUP 2022", MY: Astro Super Sport 1[B]
+#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1[B]" tvg-logo="https://i.imgur.com/uq3aoX7.png" group-title="EPL SPORTS", MY: Astro Super Sport 1[B]
 http://hotz.vip:2082/live/haziqdanial/abc12345/179.m3u8
-#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2[B]" tvg-logo="https://i.imgur.com/51Io0vK.png" group-title="FIFA WORLD CUP 2022", MY: Astro Super Sport 2[B]
+#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2[B]" tvg-logo="https://i.imgur.com/51Io0vK.png" group-title="EPL SPORTS", MY: Astro Super Sport 2[B]
 http://hotz.vip:2082/live/haziqdanial/abc12345/190.m3u8
-#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3[B]" tvg-logo="https://i.imgur.com/bGlnVta.png" group-title="FIFA WORLD CUP 2022", MY: Astro Super Sport 3[B]
+#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3[B]" tvg-logo="https://i.imgur.com/bGlnVta.png" group-title="EPL SPORTS", MY: Astro Super Sport 3[B]
 http://hotz.vip:2082/live/haziqdanial/abc12345/196.m3u8
-#EXTINF: -1 tvg-id="818" tvg-name="MY: beIN Sports" tvg-logo="https://i.imgur.com/JnWMawM.png" group-title="FIFA WORLD CUP 2022", MY: beIN Sports
+#EXTINF: -1 tvg-id="818" tvg-name="MY: beIN Sports" tvg-logo="https://i.imgur.com/JnWMawM.png" group-title="EPL SPORTS", MY: beIN Sports
 http://hotz.vip:2082/live/haziqdanial/abc12345/927.m3u8
-#EXTINF: -1 tvg-id="ChampionsTV1.id" tvg-name="[UCL]Champion 1" tvg-logo="https://i.imgur.com/Wyl4Jau.png" group-title="FIFA WORLD CUP 2022", [UCL]Champion 1
-http://hotz.vip:2082/live/haziqdanial/abc12345/219.m3u8
-#EXTINF: -1 tvg-id="ChampionsTV2.id" tvg-name="[UCL]Champion 2" tvg-logo="https://i.imgur.com/XE74MHk.png" group-title="FIFA WORLD CUP 2022", [UCL]Champion 2
-http://hotz.vip:2082/live/haziqdanial/abc12345/220.m3u8
-#EXTINF: -1 tvg-id="skypremiere.uk" tvg-name="Sky Premier League" tvg-logo="https://i.imgur.com/HUvpqvS.png" group-title="FIFA WORLD CUP 2022", Sky Premier League
+#EXTINF: -1 tvg-id="skypremiere.uk" tvg-name="Sky Premier League" tvg-logo="https://i.imgur.com/HUvpqvS.png" group-title="EPL SPORTS", Sky Premier League
 http://hotz.vip:2082/live/haziqdanial/abc12345/3370.m3u8
-#EXTINF: -1 tvg-id="truepremierfootball2.th" tvg-name="True Premier 2" tvg-logo="https://i.imgur.com/qjt4SXd.png" group-title="FIFA WORLD CUP 2022", True Premier 2
+#EXTINF: -1 tvg-id="truepremierfootball2.th" tvg-name="True Premier 2" tvg-logo="https://i.imgur.com/qjt4SXd.png" group-title="EPL SPORTS", True Premier 2
 http://hotz.vip:2082/live/haziqdanial/abc12345/3371.m3u8
-#EXTINF: -1 tvg-name="BACKUP 1" tvg-logo="https://i.imgur.com/RcYge8v.png" group-title="FIFA WORLD CUP 2022", BACKUP 1
+#EXTINF: -1 tvg-name="BACKUP 1" tvg-logo="https://i.imgur.com/RcYge8v.png" group-title="EPL SPORTS", BACKUP 1
 http://hotz.vip:2082/live/haziqdanial/abc12345/3430.m3u8
-#EXTINF: -1 tvg-name="BACKUP 2" tvg-logo="https://i.imgur.com/RcYge8v.png" group-title="FIFA WORLD CUP 2022", BACKUP 2
+#EXTINF: -1 tvg-name="BACKUP 2" tvg-logo="https://i.imgur.com/RcYge8v.png" group-title="EPL SPORTS", BACKUP 2
 http://hotz.vip:2082/live/haziqdanial/abc12345/3431.m3u8
-#EXTINF: -1 tvg-name="BACKUP 3" tvg-logo="https://i.imgur.com/RcYge8v.png" group-title="FIFA WORLD CUP 2022", BACKUP 3
+#EXTINF: -1 tvg-name="BACKUP 3" tvg-logo="https://i.imgur.com/RcYge8v.png" group-title="EPL SPORTS", BACKUP 3
 http://hotz.vip:2082/live/haziqdanial/abc12345/3432.m3u8
-#EXTINF: -1 tvg-name="BACKUP 4" tvg-logo="https://i.imgur.com/RcYge8v.png" group-title="FIFA WORLD CUP 2022", BACKUP 4
+#EXTINF: -1 tvg-name="BACKUP 4" tvg-logo="https://i.imgur.com/RcYge8v.png" group-title="EPL SPORTS", BACKUP 4
 http://hotz.vip:2082/live/haziqdanial/abc12345/3596.m3u8
 #EXTINF: -1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.imgur.com/gElMdhS.png" group-title="KIDS", Astro Ceria
 http://hotz.vip:2082/live/haziqdanial/abc12345/423.m3u8
@@ -537,6 +533,8 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4311.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4312.mp4
 #EXTINF: -1 tvg-name="Inside Out (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg" group-title="KIDS", Inside Out (2015)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4334.mp4
+#EXTINF: -1 tvg-name="The Seven Deadly Sins: Grudge of Edinburgh Part 1 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXKrI97G2Gz0GBsoJTPgoiyihAR.jpg" group-title="KIDS", The Seven Deadly Sins: Grudge of Edinburgh Part 1 2022
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4375.mp4
 #EXTINF: -1 tvg-name="One-Punch Man S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="KIDS", One-Punch Man S01 E01
 http://hotz.vip:2082/series/haziqdanial/abc12345/1772.mp4
 #EXTINF: -1 tvg-name="One-Punch Man S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mps2UuPnmkxOco5oQePVlwioZKG.jpg" group-title="KIDS", One-Punch Man S01 E02
@@ -1187,6 +1185,8 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4324.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4329.mp4
 #EXTINF: -1 tvg-name="Bila Papa Kerja Dari Rumah 2022" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc_XiTMPT7U_zaW5yHWuOMv-35ddfsAMDdOBmEhmG2GcUEPJepz2D3oGZ7sTyGGFvtpjday3MGG_PmY4DbBGHuqGalEebUI9pK4JC5gmwOUaAkhmxpxrCspn0XyotE1V76wA0AXnAnV54VcFOTI7lLDTbut-3SobQxWNAsDagKK4Xl1olTX1QFtR_2/w1200-h630-p-k-no-nu/1223114121.jpg" group-title="MALAY & INDO", Bila Papa Kerja Dari Rumah 2022
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4370.mp4
+#EXTINF: -1 tvg-name="Deleted 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPi3p9OoAzxjhOTgz3HLgODDRb0.jpg" group-title="MALAY & INDO", Deleted 2022
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4376.mp4
 #EXTINF: -1 tvg-name="Seniman Bujang Lapok (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QYNPpPpldurCnwwXNCEn99M7jp.jpg" group-title="CLASSIC", Seniman Bujang Lapok (1961)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/542.mp4
 #EXTINF: -1 tvg-name="Anak Bapak (1968)" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/30/Anak_Bapak.jpg" group-title="CLASSIC", Anak Bapak (1968)
@@ -1413,8 +1413,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/670.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/671.mp4
 #EXTINF: -1 tvg-name="Rogue Hostage (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ho7YYp1DvCke9I1D3Olbh2Px63.jpg" group-title="ACTION", Rogue Hostage (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/672.mp4
-#EXTINF: -1 tvg-name="Muay Thai Giant (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rilm1V778YGNcilo4WaXxs9gZJo.jpg" group-title="ACTION", Muay Thai Giant (2008)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/673.mp4
 #EXTINF: -1 tvg-name="The Lord of the Rings: The Fellowship of the Ring (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg" group-title="ACTION", The Lord of the Rings: The Fellowship of the Ring (2001)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/674.mp4
 #EXTINF: -1 tvg-name="The Lord of the Rings: The Two Towers (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="ACTION", The Lord of the Rings: The Two Towers (2002)
@@ -1659,8 +1657,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/3538.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3569.mp4
 #EXTINF: -1 tvg-name="Memory (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg" group-title="ACTION", Memory (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3579.mp4
-#EXTINF: -1 tvg-name="Arisaka (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzMvqwJaSPKkN5mkDQ0dLHJsPho.jpg" group-title="ACTION", Arisaka (2021)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/3606.mp4
 #EXTINF: -1 tvg-name="The Courier (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg" group-title="ACTION", The Courier (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3607.mp4
 #EXTINF: -1 tvg-name="Alleyway (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msvkZUFP7I9XOHyQmdPCyrKVlaP.jpg" group-title="ACTION", Alleyway (2021)
@@ -1693,8 +1689,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/3641.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3642.mp4
 #EXTINF: -1 tvg-name="Drawing Sword: Fighting Ghost Cry (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDSlfli5bXNq9fUh0rFKIL9DoQx.jpg" group-title="ACTION", Drawing Sword: Fighting Ghost Cry (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3643.mp4
-#EXTINF: -1 tvg-name="4 Kings (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pL9tLATXkwZyDNtnoq3RYoy0bln.jpg" group-title="ACTION", 4 Kings (2021)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/3656.mp4
 #EXTINF: -1 tvg-name="Godspeed (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfDxr9uDIOK5QZDsO76Y7ATs0kF.jpg" group-title="ACTION", Godspeed (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3659.mp4
 #EXTINF: -1 tvg-name="Blind War (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbn72ZW3sSxvPiq1SO2NCfEOqpt.jpg" group-title="ACTION", Blind War (2022)
@@ -1759,8 +1753,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/3840.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3841.mp4
 #EXTINF: -1 tvg-name="No Man of God (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg" group-title="ACTION", No Man of God (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3842.mp4
-#EXTINF: -1 tvg-name="Fast & Feel Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46Ab9aS5x9ZVhsbcQ3d5QjzfuBb.jpg" group-title="ACTION", Fast & Feel Love (2022)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/3860.mp4
 #EXTINF: -1 tvg-name="Tongshan Past Without Darkness Under the Lamp (2022)" tvg-logo="https://bichill.net/images/120x160/1653208497.jpg" group-title="ACTION", Tongshan Past Without Darkness Under the Lamp (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3864.mp4
 #EXTINF: -1 tvg-name="Kimi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg" group-title="ACTION", Kimi (2022)
@@ -1865,10 +1857,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4227.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4238.mp4
 #EXTINF: -1 tvg-name="Office Invasion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khcVwO0gwguC1CndbxtH1bzk4aj.jpg" group-title="ACTION", Office Invasion (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4244.mp4
-#EXTINF: -1 tvg-name="Beautiful Boxer 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu6NK7zfghRi0s77AQR8ip2dTlJ.jpg" group-title="ACTION", Beautiful Boxer 2003
-http://hotz.vip:2082/movie/haziqdanial/abc12345/4273.mp4
-#EXTINF: -1 tvg-name="Born to Fight 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4YPOpK9L9jHzKFN5Aa9uJuhvCn.jpg" group-title="ACTION", Born to Fight 2004
-http://hotz.vip:2082/movie/haziqdanial/abc12345/4280.mp4
 #EXTINF: -1 tvg-name="Beast (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg" group-title="ACTION", Beast (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4301.mp4
 #EXTINF: -1 tvg-name="Kung-Fu Zohra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHTgTqZCQN5kd22QlyZMpPcFU3s.jpg" group-title="ACTION", Kung-Fu Zohra (2022)
@@ -1891,6 +1879,48 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4357.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4358.mp4
 #EXTINF: -1 tvg-name="Rambo Last Blood 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="ACTION", Rambo Last Blood 2019
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4359.mp4
+#EXTINF: -1 tvg-name="Avatar: The Way of Water 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ScPNT6fHtfYJeWBajZciPV3hEL.jpg" group-title="ACTION", Avatar: The Way of Water 2022
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4377.mp4
+#EXTINF: -1 tvg-name="Muay Thai Giant (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rilm1V778YGNcilo4WaXxs9gZJo.jpg" group-title="THAILAND", Muay Thai Giant (2008)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/673.mp4
+#EXTINF: -1 tvg-name="Pee Nak 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KmbxQrWTeH3OsaqJ0eJqP4ZgnW.jpg" group-title="THAILAND", Pee Nak 2 (2020)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/734.mp4
+#EXTINF: -1 tvg-name="Coming Soon (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8yB3xFmWoa2JTnZy1EWlzKHcsw.jpg" group-title="THAILAND", Coming Soon (2008)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/762.
+#EXTINF: -1 tvg-name="Suddenly Twenty (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/km6VwUy71GI5iDDvuGd7W9jsTJb.jpg" group-title="THAILAND", Suddenly Twenty (2016)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/1455.mp4
+#EXTINF: -1 tvg-name="Mr. Hurt (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XssONH4zhRldiG3HHt2WH8xInr.jpg" group-title="THAILAND", Mr. Hurt (2017)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/1687.mp4
+#EXTINF: -1 tvg-name="Tootsies & The Fake (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuxezXrdteqlel24McKU5hzIYC5.jpg" group-title="THAILAND", Tootsies & The Fake (2019)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/1690.mp4
+#EXTINF: -1 tvg-name="Get Him Girl! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0mVBjPKazDt386e9JeDNaTY7xf.jpg" group-title="THAILAND", Get Him Girl! (2021)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/1735.mp4
+#EXTINF: -1 tvg-name="Pee Mak (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIhCR7kuoy6WTENPZCNsDJfgLtX.jpg" group-title="THAILAND", Pee Mak (2013)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/1831.mp4
+#EXTINF: -1 tvg-name="4 Kings (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pL9tLATXkwZyDNtnoq3RYoy0bln.jpg" group-title="THAILAND", 4 Kings (2021)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/3656.mp4
+#EXTINF: -1 tvg-name="Fast & Feel Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46Ab9aS5x9ZVhsbcQ3d5QjzfuBb.jpg" group-title="THAILAND", Fast & Feel Love (2022)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/3860.mp4
+#EXTINF: -1 tvg-name="Bikeman 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gR6bC7V7nRe2bvqylakIlB715SS.jpg" group-title="THAILAND", Bikeman 2 (2019)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/3914.mp4
+#EXTINF: -1 tvg-name="One for the Road 2021" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTVjZTEzZjUtYTNkMS00ZjczLWEzMDYtMjM2OGVmNjVhYmE4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="THAILAND", One for the Road 2021
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4221.mp4
+#EXTINF: -1 tvg-name="Cracked 2022" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmIzYTEzOTktNTA1YS00MjU3LWEwODQtNTgxMDU3ZWUzNzY5XkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_FMjpg_UX1000_.jpg" group-title="THAILAND", Cracked 2022
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4223.mp4
+#EXTINF: -1 tvg-name="Beautiful Boxer 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu6NK7zfghRi0s77AQR8ip2dTlJ.jpg" group-title="THAILAND", Beautiful Boxer 2003
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4273.mp4
+#EXTINF: -1 tvg-name="Born to Fight 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4YPOpK9L9jHzKFN5Aa9uJuhvCn.jpg" group-title="THAILAND", Born to Fight 2004
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4280.mp4
+#EXTINF: -1 tvg-name="Daeng 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTu0tBaPjrEIdhR4yR6xlHvmuAK.jpg" group-title="THAILAND", Daeng 2022
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4331.mp4
+#EXTINF: -1 tvg-name="Happy Ending 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2xyk1anXNebrinWleT8QEuH32W.jpg" group-title="THAILAND", Happy Ending 2022
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4332.mp4
+#EXTINF: -1 tvg-name="The Fabric (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1ZqapMkAqIRoJMRecwbpeb1FkD.jpg" group-title="THAILAND", The Fabric (2022)
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4333.mp4
+#EXTINF: -1 tvg-name="Shutter 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Tq7SrB14r3WpjJQOldbDHQk89J.jpg" group-title="THAILAND", Shutter 2004
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4349.mp4
+#EXTINF: -1 tvg-name="The Billionaire 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjolEycpddEirN0Tui92Zglprhb.jpg" group-title="THAILAND", The Billionaire 2011
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4368.mp4
 #EXTINF: -1 tvg-name="Black Widow (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="AVENGERS SERIES", Black Widow (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/699.mp4
 #EXTINF: -1 tvg-name="Iron Man (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="AVENGERS SERIES", Iron Man (2008)
@@ -2067,8 +2097,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4283.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4307.mp4
 #EXTINF: -1 tvg-name="From the Depths (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlY1XJL31F385tYxFHfugHq1BCO.jpg" group-title="HORROR", From the Depths (2020)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/733.mp4
-#EXTINF: -1 tvg-name="Pee Nak 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KmbxQrWTeH3OsaqJ0eJqP4ZgnW.jpg" group-title="HORROR", Pee Nak 2 (2020)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/734.mp4
 #EXTINF: -1 tvg-name="Peninsula (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg" group-title="HORROR", Peninsula (2020)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/735.mp4
 #EXTINF: -1 tvg-name="Skull: The Mask (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Bt11FIme9eFM6jUTZd5Tnc8Jwb.jpg" group-title="HORROR", Skull: The Mask (2020)
@@ -2123,8 +2151,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/759.
 http://hotz.vip:2082/movie/haziqdanial/abc12345/760.mp4
 #EXTINF: -1 tvg-name="Tooth Fairy: The Last Extraction (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfOQDFtmuzkqsiTcGepIw7P3ywS.jpg" group-title="HORROR", Tooth Fairy: The Last Extraction (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/761.
-#EXTINF: -1 tvg-name="Coming Soon (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8yB3xFmWoa2JTnZy1EWlzKHcsw.jpg" group-title="HORROR", Coming Soon (2008)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/762.
 #EXTINF: -1 tvg-name="The Conjuring: The Devil Made Me Do It (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg" group-title="HORROR", The Conjuring: The Devil Made Me Do It (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/763.
 #EXTINF: -1 tvg-name="308 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwXAfY5sQ7UF5RIB5uTnSgsh8Qb.jpg" group-title="HORROR", 308 (2013)
@@ -2229,8 +2255,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/1824.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1827.mp4
 #EXTINF: -1 tvg-name="they life in the grey 2022" tvg-logo="https://flxt.tmsimg.com/assets/p21496943_v_v12_aa.jpg" group-title="HORROR", they life in the grey 2022
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1830.mp4
-#EXTINF: -1 tvg-name="Pee Mak (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIhCR7kuoy6WTENPZCNsDJfgLtX.jpg" group-title="HORROR", Pee Mak (2013)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/1831.mp4
 #EXTINF: -1 tvg-name="Incarnation (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxxpUghRc0nELxTNaaVkbPqxiWs.jpg" group-title="HORROR", Incarnation (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1832.mp4
 #EXTINF: -1 tvg-name="The Night House (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxGRdNeWKQcMg6jJduTthsiBbsd.jpg" group-title="HORROR", The Night House (2021)
@@ -2367,8 +2391,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4171.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4177.mp4
 #EXTINF: -1 tvg-name="Happy Death Day 2U 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg" group-title="HORROR", Happy Death Day 2U 2019
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4212.mp4
-#EXTINF: -1 tvg-name="Cracked 2022" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmIzYTEzOTktNTA1YS00MjU3LWEwODQtNTgxMDU3ZWUzNzY5XkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_FMjpg_UX1000_.jpg" group-title="HORROR", Cracked 2022
-http://hotz.vip:2082/movie/haziqdanial/abc12345/4223.mp4
 #EXTINF: -1 tvg-name="Jeepers Creepers: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVVegwPsW6n9unBtLWq1rzOutka.jpg" group-title="HORROR", Jeepers Creepers: Reborn (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4282.mp4
 #EXTINF: -1 tvg-name="Ivanna (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEk0kC7uq54g7cVheQBgiAcCuNH.jpg" group-title="HORROR", Ivanna (2022)
@@ -2377,8 +2399,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4295.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4304.mp4
 #EXTINF: -1 tvg-name="The Visitor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FchVTEnjQw6m5NnQBa8QwjUv6T.jpg" group-title="HORROR", The Visitor (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4327.mp4
-#EXTINF: -1 tvg-name="Shutter 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Tq7SrB14r3WpjJQOldbDHQk89J.jpg" group-title="HORROR", Shutter 2004
-http://hotz.vip:2082/movie/haziqdanial/abc12345/4349.mp4
 #EXTINF: -1 tvg-name="Prey for the Devil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3s6XEDNVGq5LUlghqs6VlvsvL6.jpg" group-title="HORROR", Prey for the Devil (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4350.mp4
 #EXTINF: -1 tvg-name="Nanny 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qioumLk62Ot1mh9Vom1TXYky6W.jpg" group-title="HORROR", Nanny 2022
@@ -2707,6 +2727,10 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4325.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4353.mp4
 #EXTINF: -1 tvg-name="Andhadhun 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg" group-title="BOLLYWOOD&TAMIL", Andhadhun 2018
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4369.mp4
+#EXTINF: -1 tvg-name="Govinda Naam Mera 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdjHaiqxtkIW8uuklbhgAv0ngTk.jpg" group-title="BOLLYWOOD&TAMIL", Govinda Naam Mera 2022
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4372.mp4
+#EXTINF: -1 tvg-name="Ram Setu 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d14btEr1IdwITOpwsktGLYJ8O5v.jpg" group-title="BOLLYWOOD&TAMIL", Ram Setu 2022
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4373.mp4
 #EXTINF: -1 tvg-name="The Southern Shaolin's Angry Eye (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLZ5e6vDwLppk3v6fDYtiqJjciO.jpg" group-title="CHINA", The Southern Shaolin's Angry Eye (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1062.mp4
 #EXTINF: -1 tvg-name="Invisible Guard (2021)" tvg-logo="https://i.imgur.com/u7MmqfE.jpg" group-title="CHINA", Invisible Guard (2021)
@@ -2829,8 +2853,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4335.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4347.mp4
 #EXTINF: -1 tvg-name="The Bride with White Hair 2 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFfxAufiZtZBOiSCi0oRmbnDSpD.jpg" group-title="CHINA", The Bride with White Hair 2 1993
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4348.mp4
-#EXTINF: -1 tvg-name="Tootsies & The Fake (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuxezXrdteqlel24McKU5hzIYC5.jpg" group-title="COMEDY", Tootsies & The Fake (2019)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/1064.mp4
 #EXTINF: -1 tvg-name="Cheaper by the Dozen (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg" group-title="COMEDY", Cheaper by the Dozen (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1092.mp4
 #EXTINF: -1 tvg-name="Black as Night (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mx6cgtUiEOVGSI3sb3SNQxAXqRa.jpg" group-title="COMEDY", Black as Night (2021)
@@ -2857,14 +2879,10 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/1684.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1685.mp4
 #EXTINF: -1 tvg-name="Step Up (2019)" tvg-logo="https://i.imgur.com/oYdHChG.jpeg" group-title="COMEDY", Step Up (2019)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1686.mp4
-#EXTINF: -1 tvg-name="Mr. Hurt (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XssONH4zhRldiG3HHt2WH8xInr.jpg" group-title="COMEDY", Mr. Hurt (2017)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/1687.mp4
 #EXTINF: -1 tvg-name="Later Days (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lgk6WHLGAuQzvD0OpoSvdZEXBJ.jpg" group-title="COMEDY", Later Days (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1688.mp4
 #EXTINF: -1 tvg-name="Love Hard (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg" group-title="COMEDY", Love Hard (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1689.mp4
-#EXTINF: -1 tvg-name="Tootsies & The Fake (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuxezXrdteqlel24McKU5hzIYC5.jpg" group-title="COMEDY", Tootsies & The Fake (2019)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/1690.mp4
 #EXTINF: -1 tvg-name="Baby's Day Out (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21U2jwl36hoTHsXB3fDuIQkcchu.jpg" group-title="COMEDY", Baby's Day Out (1994)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1691.mp4
 #EXTINF: -1 tvg-name="Home Alone (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg" group-title="COMEDY", Home Alone (1990)
@@ -2953,8 +2971,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/1732.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1733.mp4
 #EXTINF: -1 tvg-name="Aku Bukan Jodohnya (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCBKocH3HR0lBAJuMSGvzxw3ygN.jpg" group-title="COMEDY", Aku Bukan Jodohnya (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1734.mp4
-#EXTINF: -1 tvg-name="Get Him Girl! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0mVBjPKazDt386e9JeDNaTY7xf.jpg" group-title="COMEDY", Get Him Girl! (2021)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/1735.mp4
 #EXTINF: -1 tvg-name="Senior Year (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg" group-title="COMEDY", Senior Year (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3581.mp4
 #EXTINF: -1 tvg-name="Cinta Warung Sebelah (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82s23nM50VHw18Tpnihyon0F8xF.jpg" group-title="COMEDY", Cinta Warung Sebelah (2022)
@@ -2983,8 +2999,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/3820.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3834.mp4
 #EXTINF: -1 tvg-name="Fighting with My Family (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVhe15rJLRjolunSWLBN6xQLyGU.jpg" group-title="COMEDY", Fighting with My Family (2019)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3913.mp4
-#EXTINF: -1 tvg-name="Bikeman 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gR6bC7V7nRe2bvqylakIlB715SS.jpg" group-title="COMEDY", Bikeman 2 (2019)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/3914.mp4
 #EXTINF: -1 tvg-name="The Man from Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTCfTibqtk4f90cC59bLPMOmsfc.jpg" group-title="COMEDY", The Man from Toronto (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/3918.mp4
 #EXTINF: -1 tvg-name="Everybody's Talking About Jamie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsCHo64bJ8lMhKv8LtOKEn1kjsH.jpg" group-title="COMEDY", Everybody's Talking About Jamie (2021)
@@ -3005,14 +3019,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4263.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4305.mp4
 #EXTINF: -1 tvg-name="Disenchanted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg" group-title="COMEDY", Disenchanted (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4328.mp4
-#EXTINF: -1 tvg-name="Daeng 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTu0tBaPjrEIdhR4yR6xlHvmuAK.jpg" group-title="COMEDY", Daeng 2022
-http://hotz.vip:2082/movie/haziqdanial/abc12345/4331.mp4
-#EXTINF: -1 tvg-name="Happy Ending 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2xyk1anXNebrinWleT8QEuH32W.jpg" group-title="COMEDY", Happy Ending 2022
-http://hotz.vip:2082/movie/haziqdanial/abc12345/4332.mp4
-#EXTINF: -1 tvg-name="The Fabric (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1ZqapMkAqIRoJMRecwbpeb1FkD.jpg" group-title="COMEDY", The Fabric (2022)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/4333.mp4
-#EXTINF: -1 tvg-name="The Billionaire 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjolEycpddEirN0Tui92Zglprhb.jpg" group-title="COMEDY", The Billionaire 2011
-http://hotz.vip:2082/movie/haziqdanial/abc12345/4368.mp4
 #EXTINF: -1 tvg-name="Mission: Possible (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uyQbJzjZxuIL1H0Gl7ZAMy34NU.jpg" group-title="KOREAN", Mission: Possible (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1435.
 #EXTINF: -1 tvg-name="Seobok: Project Clone (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVulku78GDSEb2JSDRNVTTveYZB.jpg" group-title="KOREAN", Seobok: Project Clone (2021)
@@ -3051,8 +3057,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/1451.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1452.mp4
 #EXTINF: -1 tvg-name="Recalled (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTXwu4Ux8QJ1iwBprwVRbEtPa90.jpg" group-title="KOREAN", Recalled (2021)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1454.mp4
-#EXTINF: -1 tvg-name="Suddenly Twenty (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/km6VwUy71GI5iDDvuGd7W9jsTJb.jpg" group-title="KOREAN", Suddenly Twenty (2016)
-http://hotz.vip:2082/movie/haziqdanial/abc12345/1455.mp4
 #EXTINF: -1 tvg-name="Zombie Tidal Wave (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdlWPVFMsBchv07HxF2khcdCEwZ.jpg" group-title="KOREAN", Zombie Tidal Wave (2019)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/1456.mp4
 #EXTINF: -1 tvg-name="Rampant (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0EsecBQO3nKol7BRozh3ayyi2b.jpg" group-title="KOREAN", Rampant (2018)
@@ -3205,6 +3209,8 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4156.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4189.mp4
 #EXTINF: -1 tvg-name="Confidential Assignment 2: International 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGzfZHlOQNCggWwCiDjl3cLbWfB.jpg" group-title="KOREAN", Confidential Assignment 2: International 2022
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4270.mp4
+#EXTINF: -1 tvg-name="Ox-Head Village 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57GHh71AQJoNK1Pu4DiE9zExuVn.jpg" group-title="KOREAN", Ox-Head Village 2022
+http://hotz.vip:2082/movie/haziqdanial/abc12345/4374.mp4
 #EXTINF: -1 tvg-name="Hellbound S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NYdSAnDVIXePrSG2dznHdiibMk.jpg" group-title="KOREAN", Hellbound S01 E01
 http://hotz.vip:2082/series/haziqdanial/abc12345/1216.mp4
 #EXTINF: -1 tvg-name="Hellbound S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NYdSAnDVIXePrSG2dznHdiibMk.jpg" group-title="KOREAN", Hellbound S01 E02
@@ -3473,8 +3479,6 @@ http://hotz.vip:2082/movie/haziqdanial/abc12345/4191.mp4
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4192.mp4
 #EXTINF: -1 tvg-name="Lost Bullet 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg" group-title="NETFLIX", Lost Bullet 2 (2022)
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4208.mp4
-#EXTINF: -1 tvg-name="One for the Road 2021" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTVjZTEzZjUtYTNkMS00ZjczLWEzMDYtMjM2OGVmNjVhYmE4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="NETFLIX", One for the Road 2021
-http://hotz.vip:2082/movie/haziqdanial/abc12345/4221.mp4
 #EXTINF: -1 tvg-name="The Swimmers 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gAmA9hvblerOc6xwOjYQwAnpWe.jpg" group-title="NETFLIX", The Swimmers 2022
 http://hotz.vip:2082/movie/haziqdanial/abc12345/4265.mp4
 #EXTINF: -1 tvg-name="Warrior Of The Future 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxUzf8L8f57CUxSJHUyp5D0cJvMXwA9IzuH2tUup8aUYLH4n0t4x7V7sbd-NIR6MefpQ&usqp=CAU" group-title="NETFLIX", Warrior Of The Future 2022
@@ -6355,6 +6359,8 @@ http://hotz.vip:2082/series/haziqdanial/abc12345/4210.mp4
 http://hotz.vip:2082/series/haziqdanial/abc12345/4267.mp4
 #EXTINF: -1 tvg-name="Gegar Vaganza Season 9 S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbMUFlE0hA5GXtid0MrvCSTNTUs.jpg" group-title="MALAYSIA", Gegar Vaganza Season 9 S09 E10
 http://hotz.vip:2082/series/haziqdanial/abc12345/4268.mp4
+#EXTINF: -1 tvg-name="Gegar Vaganza Season 9 S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbMUFlE0hA5GXtid0MrvCSTNTUs.jpg" group-title="MALAYSIA", Gegar Vaganza Season 9 S09 E11
+http://hotz.vip:2082/series/haziqdanial/abc12345/4378.mp4
 #EXTINF: -1 tvg-name="Aku Tanpa Cintamu S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/JjmdI7V1vr4EXc41LUhlM8Cjp5.jpg" group-title="MALAYSIA", Aku Tanpa Cintamu S01 E01
 http://hotz.vip:2082/series/haziqdanial/abc12345/4245.mp4
 #EXTINF: -1 tvg-name="Aku Tanpa Cintamu S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3XEUxllCcnEjQqDHgJ5WYLg5Ljr.jpg" group-title="MALAYSIA", Aku Tanpa Cintamu S01 E02
